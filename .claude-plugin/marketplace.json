@@ -1,0 +1,34 @@
+{
+  "name": "iremmats-skills",
+  "owner": {
+    "name": "Mats Iremark",
+    "url": "https://github.com/iremmats"
+  },
+  "description": "A collection of Claude Code skills and plugins by iremmats.",
+  "homepage": "https://github.com/iremmats/claude-skills",
+  "repository": "https://github.com/iremmats/claude-skills",
+  "metadata": {
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "schoolsoft",
+      "source": "./schoolsoft",
+      "description": "Read news from SchoolSoft as a guardian (vardnadshavare). Requires a SchoolSoft account with mobile login enabled.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Mats Iremark"
+      },
+      "keywords": [
+        "schoolsoft",
+        "school",
+        "news",
+        "guardian",
+        "vardnadshavare",
+        "sweden",
+        "swedish"
+      ],
+      "category": "education"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "schoolsoft",
+  "version": "1.0.0",
+  "description": "Read news from SchoolSoft as a guardian (vardnadshavare). Logs in via SchoolSoft's mobile app API and scrapes the news page.",
+  "author": {
+    "name": "Mats Iremark",
+    "email": "mats@iremark.se"
+  },
+  "homepage": "https://github.com/iremmats/claude-skills",
+  "repository": "https://github.com/iremmats/claude-skills",
+  "license": "MIT",
+  "keywords": [
+    "schoolsoft",
+    "school",
+    "news",
+    "guardian",
+    "vardnadshavare",
+    "sweden"
+  ]
+}
